@@ -1,0 +1,658 @@
+{
+  "slidedata": [
+    {
+      "id": 1,
+      "title": "50% Off For Your First Shopping",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      "cover": "./images/SlideCard/slide-1.png"
+    },
+    {
+      "id": 2,
+      "title": "50% Off For Your First Shopping",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      "cover": "./images/SlideCard/slide-2.png"
+    },
+    {
+      "id": 3,
+      "title": "50% Off For Your First Shopping",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      "cover": "./images/SlideCard/slide-3.png"
+    },
+    {
+      "id": 4,
+      "title": "50% Off For Your First Shopping",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      "cover": "./images/SlideCard/slide-4.png"
+    }
+  ],
+  "topdata": [
+    {
+      "cover": "./images/top/category-1.png",
+      "para": "headphone",
+      "desc": "3k orders this week"
+    },
+    {
+      "cover": "./images/top/category-2.png",
+      "para": "watch",
+      "desc": "4k orders this week"
+    },
+    {
+      "cover": "./images/top/category-3.png",
+      "para": "sunglass",
+      "desc": "6k orders this week"
+    },
+    {
+      "cover": "./images/top/category-2.png",
+      "para": "watch",
+      "desc": "4k orders this week"
+    },
+    {
+      "cover": "./images/top/category-3.png",
+      "para": "sunglass",
+      "desc": "6k orders this week"
+    }
+  ],
+  "newdata": [
+    {
+      "cover": "./images/arrivals/arrivals1.png",
+      "name": "Sunglass",
+      "price": 15000000
+    },
+    {
+      "cover": "./images/arrivals/arrivals2.png",
+      "name": "Makeup",
+      "price": 25000000
+    },
+    {
+      "cover": "./images/arrivals/arrivals3.png",
+      "name": "Smart Watch",
+      "price": 5000000
+    },
+    {
+      "cover": "./images/arrivals/arrivals4.png",
+      "name": "Lipstick",
+      "price": 150000
+    },
+    {
+      "cover": "./images/arrivals/arrivals5.png",
+      "name": "Green Plant",
+      "price": 100000
+    },
+    {
+      "cover": "./images/arrivals/arrivals6.png",
+      "name": "Bonsai tree",
+      "price": 40000000
+    }
+  ],
+  "discountData": [
+    {
+      "cover": "./images/discount/discount-1.png",
+      "name": "BenuX 2022",
+      "price": 10000000
+    },
+    {
+      "cover": "./images/discount/discount-2.png",
+      "name": "Sony TV 1080p",
+      "price": 20000000
+    },
+    {
+      "cover": "./images/discount/discount-3.png",
+      "name": "Sony PS4",
+      "price": 10000000
+    },
+    {
+      "cover": "./images/discount/discount-4.png",
+      "name": "Setgearr 2022",
+      "price": 10000000
+    },
+    {
+      "cover": "./images/discount/discount-5.png",
+      "name": "Sony BGB",
+      "price": 2000000
+    },
+    {
+      "cover": "./images/discount/discount-6.png",
+      "name": "RG products",
+      "price": 2000000
+    },
+    {
+      "cover": "./images/discount/discount-7.png",
+      "name": "Ranasonic 2022",
+      "price": 3000000
+    },
+    {
+      "cover": "./images/discount/discount-8.png",
+      "name": "Pune HD",
+      "price": 3000000
+    },
+    {
+      "cover": "./images/discount/discount-9.png",
+      "name": "Sony CCTV",
+      "price": 8000000
+    }
+  ],
+  "categories": [
+    {
+      "category_name": "Iphone",
+      "category_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/categories%2Fip14max.png?alt=media&token=6d084523-bd03-47e1-b643-c5ff4fc5f225",
+      "id": 1
+    },
+    {
+      "category_name": "Ipad",
+      "category_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/categories%2Fipadprom1.png?alt=media&token=51bcf144-c838-415b-a9dd-f14c4b156e62",
+      "id": 2
+    },
+    {
+      "category_name": "Apple Watch",
+      "category_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/categories%2Fphukien.png?alt=media&token=754bce38-3450-4b4f-b6ac-7723ffa84c5a",
+      "id": 3
+    },
+    {
+      "category_name": "Apple Airpods",
+      "category_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/categories%2Fairpods1.png?alt=media&token=32131dd1-c106-4f51-ab2a-16d309ba5f7e",
+      "id": 4
+    },
+    {
+      "category_name": "MacBook",
+      "category_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/categories%2Fmacbook1.png?alt=media&token=5c5f7d0e-d3d8-4879-842f-c46686103739",
+      "id": 5
+    },
+    {
+      "category_name": "Loa",
+      "category_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/categories%2Fhomepod.png?alt=media&token=b95df29a-cce2-4136-8072-d0bc61a25948",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "kts.duongvietanh@gmail.com",
+      "password": "$2a$10$i0xpUJzyyfPyQ9bXtTZpDO4VW7wzTvmBC6C31CfAjLIp9FwmZ850O",
+      "user_name": "Dương Việt Anh",
+      "gender": 0,
+      "dateOfBirth": "1993-06-14",
+      "address": "số 56 ngõ 896 nguyễn khoái,thanh trì,hai bà trưng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/users%2Fzaiross.jpg?alt=media&token=2e224cd2-e706-49ad-a8b6-a20ea981bc2a",
+      "role": 0,
+      "active": true,
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "product_name": "iPhone 14 Pro Max 128GB",
+      "price": "27000000",
+      "description": "Màn hình:\nOLED6.7\nSuper Retina XDR\n\nHệ điều hành:\niOS 16\n\nCamera sau:\nChính 48 MP & Phụ 12 MP, 12 MP\n\nCamera trước:\n12 MP\n\nChip:\nApple A16 Bionic\n\nRAM:\n6 GB\\nnDung lượng lưu trữ:\n128 GB\n\nSIM:\n1 Nano SIM & 1 eSIMHỗ trợ 5G\n\nPin, Sạc:\n4323 mAh20 W",
+      "from": "VNA",
+      "category_id": 1,
+      "discount": "10",
+      "quantity": "10",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fip14promax2.png?alt=media&token=d8194125-c178-46ca-9ce5-005348886ca7",
+      "id": 1
+    },
+    {
+      "product_name": "iPhone 14 Pro 128GB",
+      "price": "24000000",
+      "description": "Màn hình:\nOLED6.1\nSuper Retina XDR\n\nHệ điều hành:\niOS 16\n\nCamera sau:\nChính 48 MP & Phụ 12 MP, 12 MP\n\nCamera trước:\n12 MP\n\nChip:\nApple A16 Bionic\n\nRAM:\n6 GB\n\nDung lượng lưu trữ:\n128 GB\n\nSIM:\n1 Nano SIM & 1 eSIMHỗ trợ 5G\n\nPin, Sạc:\n3200 mAh20 W",
+      "from": "VNA",
+      "category_id": 1,
+      "discount": "5",
+      "quantity": "10",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fip14promax3.png?alt=media&token=a12eee18-f6f2-4ea4-8432-fadb10610b1c",
+      "id": 2
+    },
+    {
+      "product_name": "iPhone 14 128GB",
+      "price": "19000000",
+      "description": "Màn hình:\nOLED6.1\nSuper Retina XDR\n\nHệ điều hành:\niOS 16\n\nCamera sau:\n2 camera 12 MP\n\nCamera trước:\n12 MP\n\nChip:\nApple A15 Bionic\n\nRAM:\n6 GB\n\nDung lượng lưu trữ:\n128 GB\n\nSIM:\n1 Nano SIM & 1 eSIMHỗ trợ 5G\n\nPin, Sạc:\n3279 mAh20 W",
+      "from": "VNA",
+      "category_id": 1,
+      "discount": "10",
+      "quantity": "10",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fip14_1.png?alt=media&token=ca1c4043-a14e-4e51-8cdc-5e7f7464dfdb",
+      "id": 3
+    },
+    {
+      "product_name": "iPhone 11 64GB",
+      "price": "11000000",
+      "description": "Màn hình:\nIPS LCD6.1\nLiquid Retina\n\nHệ điều hành:\niOS 15\n\nCamera sau:\n2 camera 12 MP\n\nCamera trước:\n12 MP\n\nChip:\nApple A13 Bionic\n\nRAM:\n4 GB\n\nDung lượng lưu trữ:\n64 GB\n\nSIM:\n1 Nano SIM & 1 eSIMHỗ trợ 4G\n\nPin, Sạc:\n3110 mAh18 W",
+      "from": "VNA",
+      "category_id": 1,
+      "discount": "5",
+      "quantity": "10",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fip11.png?alt=media&token=2da2d89f-41b8-4583-bf5f-135fff77d211",
+      "id": 4
+    },
+    {
+      "product_name": "MacBook Pro M2 Pro",
+      "price": "48000000",
+      "description": "CPU:\nApple M2 Pro200GB/s\n\nRAM:\n\n16 GB\n\nỔ cứng:\n\n512 GB SSD\n\nMàn hình:\n\n14.2\"Liquid Retina XDR display (3024 x 1964)120Hz\n\nCard màn hình:\nCard tích hợp16 nhân GPU\n\nCổng kết nối:\n3 x Thunderbolt 4HDMIJack tai nghe 3.5 mmMagSafe 3\n\n khối lượng:\nDài 312.6 mm - Rộng 221.2 mm - Dày 15.5 mm - Nặng 1.6 kg",
+      "from": "USA",
+      "category_id": 5,
+      "discount": "5",
+      "quantity": "20",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fmbm2.png?alt=media&token=0e37b1cb-23c4-43d0-8c7b-1a5dc97f0ceb",
+      "id": 5
+    },
+    {
+      "product_name": "MacBook Air 15inch M2",
+      "price": "38000000",
+      "description": "CPU:\nApple M2 100GB/s\n\nRAM:\n8 GB\n\nỔ cứng:\n512 GB SSD\n\nMàn hình:\n15.3' Liquid Retina (2880 x 1864)\n\nCard màn hình:\nCard tích hợp 10 nhân GPU\n\nCổng kết nối:\n2 x Thunderbolt 4\nHDMI\nMagSafe 3\n\nHệ điều hành:\nMac OS\n\nKích thước, khối lượng:\nDài 340.4 mm - Rộng 237.6 mm - Dày 11.5 mm - Nặng 1.51 kg",
+      "category_id": 5,
+      "discount": "5",
+      "quantity": "10",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fmacbookm1.png?alt=media&token=10349fed-a496-457d-a8f6-5e40de27451d",
+      "id": 6
+    },
+    {
+      "product_name": "Apple MacBook Air M2",
+      "price": "39000000",
+      "description": "CPU:\nnApple M2100GB/s\n\nnRAM:\n16 GB\n\nỔ cứng:\n512 GB SSD\n\nMàn hình:\n13.6' Liquid Retina (2560 x 1664)\n\nCard màn hình:\nCard tích hợp10 nhân GPU\n\nCổng kết nối:\n2 x Thunderbolt 3 mmMagSafe 3\n\nHệ điều hành:\nMac OS\n\nKích thước, khối lượng:\nDài 304.1 mm - Rộng 215 mm - Dày 11.3 mm - Nặng 1.24 kg ",
+      "from": "USA",
+      "category_id": 5,
+      "discount": "10",
+      "quantity": "10",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fmacbookm2.png?alt=media&token=f3722f38-b065-435a-bb82-25aa43a88ee0",
+      "id": 7
+    },
+    {
+      "product_name": "Dell Gaming G15 5530 i7",
+      "price": "41000000",
+      "description": "CPU:\n i7 13650HX 2.6GHz\n\nRAM: 16 GB DDR5 2 khe (1 khe 8 GB + 1 khe 8 GB) 4800 MHz\n\nỔ cứng:\n 512 GB SSD NVMe PCIe Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng\n\nMàn hình:\n 15.6' Full HD (1920 x 1080) 165Hz\n\nCard màn hình:\n Card rời RTX 4060 8GB\n\nCổng kết nối:\n 1 x USB Type-C (hỗ trợ DisplayPort), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\n\nHệ điều hành:\n Windows 11 Home SL + Office Home & Student\n\nKích thước, khối lượng:\n Dài 357.26 mm - Rộng 274.52 mm - Dày 21.28 ~ 26.15 mm - Nặng 2.81 kg",
+      "from": "VNA",
+      "category_id": 5,
+      "discount": "5",
+      "quantity": "10",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fdell.png?alt=media&token=89b47285-0d5a-4352-9705-92677850cd09",
+      "id": 8
+    },
+    {
+      "product_name": "MSI Gaming GS66 Stealth",
+      "price": "51000000",
+      "description": "CPU:\n i7 11800H 2.30 GHz\n\nRAM:\n 32 GB DDR4 2 khe (1 khe 16 GB + 1 khe 16 GB) 3200 MHz\n\nỔ cứng:\n Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 2 TB), 2 TB SSD NVMe PCIe\n\nMàn hình:\n 15.6' Full HD (1920 x 1080) 360Hz\n\nCard màn hình:\n Card rời RTX 3070 Max-Q 8GB\n\nCổng kết nối:\n HDMI, LAN (RJ45), USB Type-C, 3 x USB 3.2, Thunderbolt 4 USB-C, Jack tai nghe 3.5 mm\n\nHệ điều hành:\n Windows 10 Home SL\n\nKích thước, khối lượng:\n Dài 358.3 mm - Rộng 248 mm - Dày 19.8 mm - Nặng 2.1 Kg",
+      "from": "VNA",
+      "category_id": 5,
+      "discount": "5",
+      "quantity": "20",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fmsi.png?alt=media&token=c1f24a3d-7a85-4f06-80fa-ef584ef00f40",
+      "id": 9
+    },
+    {
+      "product_name": "iPhone 12 64GB",
+      "price": "15000000",
+      "description": "Màn hình:\n OLED 6.1' Super Retina XDR\n\nHệ điều hành:\n iOS 15\n\nCamera sau:\n 2 camera 12 MP\n\nCamera trước:\n 12 MP\n\nChip:\n Apple A14 Bionic\n\nRAM:\n 4 GB\n\nDung lượng lưu trữ:\n 64 GB\n\nSIM:\n 1 Nano SIM & 1 eSIM Hỗ trợ 5G\n\nPin, Sạc:\n 2815 mAh, 20 W",
+      "from": "VNA",
+      "category_id": 1,
+      "discount": "5",
+      "quantity": "20",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fip12.png?alt=media&token=4e105f62-d95e-44e9-b6d8-20b4a0958edd",
+      "id": 10
+    },
+    {
+      "product_name": "iPhone 13 128GB",
+      "price": "17000000",
+      "description": "Màn hình:\n OLED 6.1' Super Retina XDR\n\nHệ điều hành:\n iOS 15\n\nCamera sau:\n 2 camera 12 MP\n\nCamera trước:\n 12 MP\n\nChip:\n Apple A15 Bionic\n\nRAM:\n 4 GB\n\nDung lượng lưu trữ:\n 128 GB\n\nSIM:\n 1 Nano SIM & 1 eSIM Hỗ trợ 5G\n\nPin, Sạc:\n3240 mAh, 20 W",
+      "from": "VNA",
+      "category_id": 1,
+      "discount": "5",
+      "quantity": "15",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fip13.png?alt=media&token=bd378bca-b9fa-45f8-9676-5975139834cf",
+      "id": 11
+    },
+    {
+      "product_name": "Samsung Galaxy Z Flip4",
+      "price": "15000000",
+      "description": "Màn hình:\n Dynamic AMOLED 2X, \nChính 6.7' & Phụ 1.9' Full HD+\n\nHệ điều hành:\n Android 12\n\nCamera sau:\n 2 camera 12 MP\n\nCamera trước:\n 10 MP\n\nChip:\n Snapdragon 8+ Gen 1\n\nRAM:\n 8 GB\n\nDung lượng lưu trữ:\n 128 GB\n\nSIM:\n 1 Nano SIM & 1 eSIM Hỗ trợ 5G\n\nPin, Sạc:\n 3700 mAh, 25 W",
+      "from": "VNA",
+      "category_id": 1,
+      "discount": "5",
+      "quantity": "20",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fsamsungflip.png?alt=media&token=a37417d0-93d4-4498-9910-914edc8bcc7e",
+      "id": 12
+    },
+    {
+      "product_name": "Samsung Galaxy Z Fold4",
+      "price": "27000000",
+      "description": "Màn hình:\n Dynamic AMOLED 2X\nChính 7.6' & Phụ 6.2' Quad HD+ (2K+)\n\nHệ điều hành: \nAndroid 12\n\nCamera sau: Chính 50 MP & Phụ 12 MP, 10 MP\n\nCamera trước:\n 10 MP & 4 MP\n\nChip:\n Snapdragon 8+ Gen 1\n\nRAM:\n 12 GB\n\nDung lượng lưu trữ: \n256 GB\n\nSIM:\n 1 Nano SIM & 1 eSIM Hỗ trợ 5G\n\nPin, Sạc:\n 4400 mAh, 25 W",
+      "from": "VNA",
+      "category_id": 1,
+      "discount": "4",
+      "quantity": "20",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fsamsungfold4.png?alt=media&token=5e8b4e17-faa5-461a-a5c5-d9c1d08c3d85",
+      "id": 13
+    },
+    {
+      "product_name": "Apple Watch Ultra 49mm",
+      "price": "19000000",
+      "description": "Màn hình:\n OLED 1.92 inch\n\nThời lượng pin:\n Khoảng 36 giờ (ở chế độ sử dụng thông thường), Khoảng 60 giờ (ở chế độ tiết kiệm pin)\n\nKết nối với hệ điều hành:\n iPhone 8 trở lên với iOS phiên bản mới nhất\n\nMặt:\n Kính Sapphire 49 mm\n\nTính năng cho sức khỏe: \nTính quãng đường chạy, Điện tâm đồ, Đo nồng độ oxy (SpO2), Theo dõi giấc ngủ, Đo nhịp tim, Tính lượng calories tiêu thụ, Đếm số bước chân, Theo dõi chu kỳ kinh nguyệt, Chấm điểm giấc ngủ, Cảm biến nhiệt độ, Nhắc nhở nhịp tim cao, thấp, Gửi thông báo khi có tai nạn, Ước tính ngày rụng trứng",
+      "from": "VNA",
+      "category_id": 3,
+      "discount": "4",
+      "quantity": "20",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fwatch1.png?alt=media&token=bc20c244-36fc-4f64-bbd6-523525d13ba5",
+      "id": 14
+    },
+    {
+      "product_name": "Apple Watch S8 41mm",
+      "price": "8000000",
+      "description": "Màn hình:\n OLED 1.9 inch\n\nThời lượng pin:\n Khoảng 18 giờ (ở chế độ sử dụng thông thường), Khoảng 1.5 ngày (ở chế độ tiết kiệm pin)\n\nKết nối với hệ điều hành:\n iPhone 8 trở lên với iOS phiên bản mới nhất\n\nMặt:\n Ion-X strengthened glass 41 mm\n\nTính năng cho sức khỏe:\n Theo dõi mức độ stress, Tính quãng đường chạy, Điện tâm đồ, Đo nồng độ oxy (SpO2), Theo dõi giấc ngủ, Đo nhịp tim, Tính lượng calories tiêu thụ, Đếm số bước chân, Đo lượng tiêu thụ oxy tối đa (VO2 Max), Theo dõi chu kỳ kinh nguyệt, Chấm điểm giấc ngủ, Cảm biến nhiệt độ, Nhắc nhở nhịp tim cao, thấp, Ước tính ngày rụng trứng",
+      "from": "VNA",
+      "category_id": 3,
+      "discount": "5",
+      "quantity": "10",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fwatch3.png?alt=media&token=926a4136-a8c6-4a27-835b-cb761e709a1f",
+      "id": 15
+    },
+    {
+      "product_name": "Apple Watch SE 44mm",
+      "price": "7000000",
+      "description": "Màn hình:\n OLED\n\nThời lượng pin:\n Khoảng 18 giờ (ở chế độ sử dụng thông thường), Khoảng 1.5 ngày (ở chế độ tiết kiệm pin)\n\nKết nối với hệ điều hành:\n iPhone 8 trở lên với iOS phiên bản mới nhất\n\nMặt:\n Ion-X strengthened glass 44 mm\n\nTính năng cho sức khỏe:\n Theo dõi mức độ stress, Tính quãng đường chạy, Đếm số bước chân, Theo dõi giấc ngủ, Đo nhịp tim, Tính lượng calories tiêu thụ, Theo dõi chu kỳ kinh nguyệt, Chế độ luyện tập, Cảm biến nhiệt độ, Nhắc nhở nhịp tim cao, thấp, Gửi thông báo khi có tai nạn",
+      "from": "VNA",
+      "category_id": 3,
+      "discount": "2",
+      "quantity": "20",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fwatch2.png?alt=media&token=b2291cd5-2b9f-49e9-b543-e49f755424b9",
+      "id": 16
+    },
+    {
+      "product_name": "Apple Watch Ultra 49mm",
+      "price": "19000000",
+      "description": "Màn hình:\n OLED 1.92 inch\n\nThời lượng pin:\n Khoảng 36 giờ (ở chế độ sử dụng thông thường), Khoảng 60 giờ (ở chế độ tiết kiệm pin)\n\nKết nối với hệ điều hành:\n iPhone 8 trở lên với iOS phiên bản mới nhất\n\nMặt: \nKính Sapphire 49 mm\nTính năng cho sức khỏe: Tính quãng đường chạy, Điện tâm đồ, Đo nồng độ oxy (SpO2), Theo dõi giấc ngủ, Đo nhịp tim, Tính lượng calories tiêu thụ, Đếm số bước chân, Theo dõi chu kỳ kinh nguyệt, Chấm điểm giấc ngủ, Cảm biến nhiệt độ, Nhắc nhở nhịp tim cao, thấp, Gửi thông báo khi có tai nạn, Ước tính ngày rụng trứng",
+      "from": "USA",
+      "category_id": 3,
+      "discount": "2",
+      "quantity": "20",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fwatch4.png?alt=media&token=5f6b8bec-6d98-4a2b-9718-5e45528521a6",
+      "id": 17
+    },
+    {
+      "product_name": "AirPods Pro MagSafe",
+      "price": "6000000",
+      "description": "Thời gian tai nghe:\n Dùng 6 giờ\n\nThời gian hộp sạc:\n Dùng 30 giờ\n\nCổng sạc:\n Lightning, Sạc không dây Qi, Sạc MagSafe\n\nCông nghệ âm thanh:\n Adaptive EQ, Active Noise Cancellation, Chip Apple H2\n\nTương thích:\n Android, iOS, Windows\n\nTiện ích:\n Chống nước IPX4, Sạc không dây, Có mic thoại, Sạc nhanh, Chống ồn chủ động ANC, Trợ lý ảo Siri\n\nHỗ trợ kết nối:\n Bluetooth 5.3\n\nĐiều khiển bằng:\n Cảm ứng chạm",
+      "from": "VNA",
+      "category_id": 4,
+      "discount": "3",
+      "quantity": "20",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fairpods1.png?alt=media&token=c01fe5f8-d5d3-4df8-b77a-ab61d0379639",
+      "id": 18
+    },
+    {
+      "product_name": "Asus Gaming ROG Strix",
+      "price": "118000000",
+      "description": "CPU:\n i9-13980HX 2.2GHz\n\nRAM:\n 64 GB DDR5 2 khe (1 khe 32 GB + 1 khe 32 GB) 4800 MHz\n\nỔ cứng:\n 2 TB SSD\n\nMàn hình:\n 18 inch WQXGA (2560 x 1600) 240Hz\n\nCard màn hình:\n Card rời RTX 4090 16GB\n\nCổng kết nối:\n 1 x Thunderbolt 4 (hỗ trợ DisplayPort / G-SYNC), 1 x USB 3.2 Gen 2 Type-C (hỗ trợ DisplayPort, Power delivery, G-SYNC), HDMI, LAN (RJ45)\n\nHệ điều hành:\n Windows 11 Home SL\n\nKích thước, khối lượng:\n Dài 399 mm - Rộng 294 mm - Dày 23.1 ~ 30.8 mm - Nặng 3.1 kg",
+      "from": "VNA",
+      "category_id": 5,
+      "discount": "5",
+      "quantity": "5",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fasus.png?alt=media&token=74b8cb38-e4ac-45e2-883a-5f34ccef210b",
+      "id": 19
+    },
+    {
+      "product_name": "iPad Pro M1 12.9 inch 2TB",
+      "price": "59000000",
+      "description": "Màn hình:\n 12.9' Liquid Retina XDR\n\nChip:\n Apple M1\n\nRAM:\n 16 GB\n\nDung lượng lưu trữ:\n 2 TB\n\nKết nối:\n 5G, Nghe gọi qua FaceTime\n\nSIM:\n 1 Nano SIM hoặc 1 eSIM\n\nCamera sau:\n Chính 12 MP & Phụ 10 MP, TOF 3D LiDAR\n\nCamera trước:\n 12 MP\n\nPin, Sạc:\n 40.88 Wh (~10835 mAh), 20 W",
+      "from": "VNA",
+      "category_id": 2,
+      "discount": "2",
+      "quantity": "10",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fipadprom1.png?alt=media&token=75bd222d-133e-467b-af3d-a433fffaafa4",
+      "id": 20
+    },
+    {
+      "product_name": "Tai JBL Tour One M2",
+      "price": "7000000",
+      "description": "Pin: Dùng 50 giờ - Sạc 2 giờ\n\nCổng sạc:\n Type-C\n\nCông nghệ âm thanh:\n Ambient Sound, TalkThru, Hi-Res Audio, JBL Spatial Sound, Personi-fi 2.0, True Adaptive Noise Cancelling, JBL Pro Sound\n\nTương thích:\n Android, iOS (iPhone), Windows, MacOS\n\nỨng dụng kết nối:\n JBL Headphones\n\nTiện ích:\n Có mic thoại, Tương thích trợ lý ảo, Hỗ trợ Google Fast Pair và Microsoft Swift Pair\n\nHỗ trợ kết nối:\n Bluetooth 5.3\n\nĐiều khiển bằng:\n Phím nhấn, Cảm ứng chạm",
+      "from": "VNA",
+      "category_id": 4,
+      "discount": "5",
+      "quantity": "20",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Ftainghe2.png?alt=media&token=b3c23c49-9521-493f-a794-442cdb2a5f92",
+      "id": 21
+    },
+    {
+      "product_name": "Samsung Galaxy Buds 2",
+      "price": "5000000",
+      "description": "Thời gian tai nghe:\n Dùng 8 giờ - Sạc khoảng 70 phút\n\nThời gian hộp sạc:\n Dùng 29 giờ - Sạc khoảng 130 phút\n\nCổng sạc:\n Type-C, Sạc không dây\n\nCông nghệ âm thanh:\n Active Noise Cancelling, 360 Reality Audio, Ambient Sound, Âm thanh Hi-Fi\n\nTương thích: \nAndroid, iOS (iPhone), Windows\n\nTiện ích:\n Chống nước IPX7, Hỗ trợ sạc không dây Qi, Sạc nhanh, Chống ồn chủ động ANC, 3 Micro chống ồn\n\nHỗ trợ kết nối:\n Bluetooth 5.3\n\nĐiều khiển bằng:\n Cảm ứng chạm",
+      "from": "VNA",
+      "category_id": 4,
+      "discount": "2",
+      "quantity": "20",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fssbust.png?alt=media&token=1e8bcb03-6747-4acb-bff8-1ec5e7e29858",
+      "id": 22
+    },
+    {
+      "product_name": "Tai Bluetooth JBL Tour",
+      "price": "6000000",
+      "description": "Thời gian tai nghe:\n Dùng 10 giờ\n\nThời gian hộp sạc:\n Dùng 40 giờ - Sạc 2 giờ\n\nCông nghệ âm thanh:\n Ambient Sound, TalkThru, JBL Spatial Sound, 10 mm Dynamic Driver, Personi-fi 2.0, True Adaptive Noise Cancelling, JBL Pro Sound\n\nTương thích:\n macOS (Macbook, iMac), Android, iOS (iPhone), Windows\n\nỨng dụng kết nối:\n JBL Headphones\n\nTiện ích:\n Chống nước IPX5, Sạc không dây, Có mic thoại, Tương thích trợ lý ảo, Đệm tai đi kèm, Hỗ trợ Google Fast Pair và Microsoft Swift Pair, Màn hình cảm ứng ở hộp sạc\n\nHỗ trợ kết nối:\n Bluetooth 5.3",
+      "from": "VNA",
+      "category_id": 4,
+      "discount": "2",
+      "quantity": "20",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Flbl.png?alt=media&token=6ff97d47-a681-42d2-90a2-72494805c069",
+      "id": 23
+    },
+    {
+      "product_name": "iPad Pro M1 11inch 2TB ",
+      "price": "44000000",
+      "description": "Màn hình:\n 11' Liquid Retina\n\nHệ điều hành:\n iPadOS 15\n\nChip:\n Apple M1\n\nRAM:\n 16 GB\n\nDung lượng lưu trữ:\n 2 TB\n\nKết nối:\n Nghe gọi qua FaceTime\n\nCamera sau:\n Chính 12 MP & Phụ 10 MP, TOF 3D LiDAR\n\nCamera trước:\n 12 MP\n\nPin, Sạc:\n 28.65 Wh (~7538 mAh), 20 W",
+      "from": "VNA",
+      "category_id": 2,
+      "discount": "5",
+      "quantity": "20",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fipadpro.png?alt=media&token=a69f32f6-8568-464a-8e4e-ac9d9a4dd6ea",
+      "id": 24
+    },
+    {
+      "product_name": "loa",
+      "price": "20000000",
+      "description": "dep",
+      "from": "vna",
+      "category_id": 6,
+      "discount": "20",
+      "quantity": "10",
+      "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fhomepod.png?alt=media&token=8e523de9-e176-46e8-9d07-e74ca3a6269b",
+      "id": 25
+    }
+  ],
+  "productItems": [
+    {
+      "id": 1,
+      "discount": 50,
+      "image": "./images/flash/flash-1.png",
+      "product_name": "Shoes",
+      "price": 10000000
+    },
+    {
+      "id": 2,
+      "discount": 40,
+      "image": "./images/flash/flash-2.png",
+      "product_name": "Watch",
+      "price": 20000000
+    },
+    {
+      "id": 3,
+      "discount": 20,
+      "image": "./images/flash/flash-3.png",
+      "product_name": "Smart Mobile Black",
+      "price": 12000000
+    },
+    {
+      "id": 4,
+      "discount": 40,
+      "image": "./images/flash/flash-4.png",
+      "product_name": "Smart Watch Black",
+      "price": 50
+    },
+    {
+      "id": 1,
+      "discount": 50,
+      "image": "./images/flash/flash-1.png",
+      "product_name": "Shoes",
+      "price": 10000000
+    },
+    {
+      "id": 2,
+      "discount": 30,
+      "image": "./images/flash/flash-2.png",
+      "product_name": "Watch",
+      "price": 20000000
+    }
+  ],
+  "carts": [
+    {
+      "userId": 2,
+      "cartDetails": [],
+      "id": 1
+    },
+    {
+      "userId": 7,
+      "cartDetails": [],
+      "id": 2
+    },
+    {
+      "cartDetails": [
+        {
+          "productId": 1,
+          "quantity": 1
+        },
+        {
+          "productId": 2,
+          "quantity": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "cart": [],
+      "id": 4
+    },
+    {
+      "userId": 9,
+      "cart": [],
+      "id": 5
+    },
+    {
+      "userId": 10,
+      "cart": [],
+      "id": 6
+    }
+  ],
+  "orders": [
+    {
+      "orderName": "Đức",
+      "orderAddress": "Hà Nôi",
+      "orderNote": "Hà Nội",
+      "orderPhone": "0363304513",
+      "total": 124000000,
+      "date": "13:59:56 27/9/2023",
+      "status": false,
+      "carts": [
+        {
+          "productId": 1,
+          "quantity": 3,
+          "datas": {
+            "product_name": "iPhone 14 Pro Max 128GB",
+            "price": "27000000",
+            "description": "Màn hình:\nOLED6.7\nSuper Retina XDR\n\nHệ điều hành:\niOS 16\n\nCamera sau:\nChính 48 MP & Phụ 12 MP, 12 MP\n\nCamera trước:\n12 MP\n\nChip:\nApple A16 Bionic\n\nRAM:\n6 GB\\nnDung lượng lưu trữ:\n128 GB\n\nSIM:\n1 Nano SIM & 1 eSIMHỗ trợ 5G\n\nPin, Sạc:\n4323 mAh20 W",
+            "from": "VNA",
+            "category_id": 1,
+            "discount": "10",
+            "quantity": "10",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fip14promax2.png?alt=media&token=d8194125-c178-46ca-9ce5-005348886ca7",
+            "id": 1
+          }
+        },
+        {
+          "productId": 2,
+          "quantity": 1,
+          "datas": {
+            "product_name": "iPhone 14 Pro 128GB",
+            "price": "24000000",
+            "description": "Màn hình:\nOLED6.1\nSuper Retina XDR\n\nHệ điều hành:\niOS 16\n\nCamera sau:\nChính 48 MP & Phụ 12 MP, 12 MP\n\nCamera trước:\n12 MP\n\nChip:\nApple A16 Bionic\n\nRAM:\n6 GB\n\nDung lượng lưu trữ:\n128 GB\n\nSIM:\n1 Nano SIM & 1 eSIMHỗ trợ 5G\n\nPin, Sạc:\n3200 mAh20 W",
+            "from": "VNA",
+            "category_id": 1,
+            "discount": "5",
+            "quantity": "10",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fip14promax3.png?alt=media&token=a12eee18-f6f2-4ea4-8432-fadb10610b1c",
+            "id": 2
+          }
+        },
+        {
+          "productId": 3,
+          "quantity": 1,
+          "datas": {
+            "product_name": "iPhone 14 128GB",
+            "price": "19000000",
+            "description": "Màn hình:\nOLED6.1\nSuper Retina XDR\n\nHệ điều hành:\niOS 16\n\nCamera sau:\n2 camera 12 MP\n\nCamera trước:\n12 MP\n\nChip:\nApple A15 Bionic\n\nRAM:\n6 GB\n\nDung lượng lưu trữ:\n128 GB\n\nSIM:\n1 Nano SIM & 1 eSIMHỗ trợ 5G\n\nPin, Sạc:\n3279 mAh20 W",
+            "from": "VNA",
+            "category_id": 1,
+            "discount": "10",
+            "quantity": "10",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fip14_1.png?alt=media&token=ca1c4043-a14e-4e51-8cdc-5e7f7464dfdb",
+            "id": 3
+          }
+        }
+      ],
+      "userIdCart": 2,
+      "id": 1
+    },
+    {
+      "orderName": "viẹt",
+      "orderAddress": "hà nội",
+      "orderNote": "hànội",
+      "orderPhone": "0363301425",
+      "total": 70000000,
+      "date": "15:03:27 27/9/2023",
+      "status": true,
+      "carts": [
+        {
+          "productId": 1,
+          "quantity": 1,
+          "datas": {
+            "product_name": "iPhone 14 Pro Max 128GB",
+            "price": "27000000",
+            "description": "Màn hình:\nOLED6.7\nSuper Retina XDR\n\nHệ điều hành:\niOS 16\n\nCamera sau:\nChính 48 MP & Phụ 12 MP, 12 MP\n\nCamera trước:\n12 MP\n\nChip:\nApple A16 Bionic\n\nRAM:\n6 GB\\nnDung lượng lưu trữ:\n128 GB\n\nSIM:\n1 Nano SIM & 1 eSIMHỗ trợ 5G\n\nPin, Sạc:\n4323 mAh20 W",
+            "from": "VNA",
+            "category_id": 1,
+            "discount": "10",
+            "quantity": "10",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fip14promax2.png?alt=media&token=d8194125-c178-46ca-9ce5-005348886ca7",
+            "id": 1
+          }
+        },
+        {
+          "productId": 2,
+          "quantity": 1,
+          "datas": {
+            "product_name": "iPhone 14 Pro 128GB",
+            "price": "24000000",
+            "description": "Màn hình:\nOLED6.1\nSuper Retina XDR\n\nHệ điều hành:\niOS 16\n\nCamera sau:\nChính 48 MP & Phụ 12 MP, 12 MP\n\nCamera trước:\n12 MP\n\nChip:\nApple A16 Bionic\n\nRAM:\n6 GB\n\nDung lượng lưu trữ:\n128 GB\n\nSIM:\n1 Nano SIM & 1 eSIMHỗ trợ 5G\n\nPin, Sạc:\n3200 mAh20 W",
+            "from": "VNA",
+            "category_id": 1,
+            "discount": "5",
+            "quantity": "10",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fip14promax3.png?alt=media&token=a12eee18-f6f2-4ea4-8432-fadb10610b1c",
+            "id": 2
+          }
+        },
+        {
+          "productId": 3,
+          "quantity": 1,
+          "datas": {
+            "product_name": "iPhone 14 128GB",
+            "price": "19000000",
+            "description": "Màn hình:\nOLED6.1\nSuper Retina XDR\n\nHệ điều hành:\niOS 16\n\nCamera sau:\n2 camera 12 MP\n\nCamera trước:\n12 MP\n\nChip:\nApple A15 Bionic\n\nRAM:\n6 GB\n\nDung lượng lưu trữ:\n128 GB\n\nSIM:\n1 Nano SIM & 1 eSIMHỗ trợ 5G\n\nPin, Sạc:\n3279 mAh20 W",
+            "from": "VNA",
+            "category_id": 1,
+            "discount": "10",
+            "quantity": "10",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-e3ed6.appspot.com/o/products%2Fip14_1.png?alt=media&token=ca1c4043-a14e-4e51-8cdc-5e7f7464dfdb",
+            "id": 3
+          }
+        }
+      ],
+      "userIdCart": 2,
+      "id": 2
+    }
+  ]
+}
